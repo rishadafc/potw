@@ -10,10 +10,13 @@ potwControllers.controller('PlayerListCtrl', ['$scope', 'Player',
     $scope.orderProp = 'age';
   }]);
 
-potwControllers.controller('PlayerDetailCtrl', ['$scope', '$routeParams', 'Player',
-  function($scope, $routeParams, Player) {
+potwControllers.controller('PlayerDetailCtrl', ['$scope', '$sce', '$routeParams', 'Player',
+  function($scope, $sce, $routeParams, Player) {
     $scope.player = Player.get({playerId: $routeParams.playerId}, function(player) {
       $scope.mainImageUrl = player.images[0];
+
+      // Video URL
+      $scope.videoUrl = $sce.trustAsResourceUrl($scope.player.videoUrl);
     });
 
     $scope.setImage = function(imageUrl) {

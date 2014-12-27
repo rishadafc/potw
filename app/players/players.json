@@ -1,25 +1,23 @@
 [
     {
         "age": 0, 
-        "id": "dell-streak-7", 
-        "imageUrl": "img/players/dell-streak-7.0.jpg", 
-        "name": "Dell Streak 7", 
-        "snippet": "Introducing Dell\u2122 Streak 7. Share photos, videos and movies together. It\u2019s small enough to carry around, big enough to gather around."
+        "id": "andrea-pirlo", 
+        "imageUrl": "img/players/andrea-pirlo.jpg", 
+        "name": "Andrea Pirlo", 
+        "snippet": "Italian maestro."
     }, 
     {
         "age": 1, 
-        "carrier": "Dell", 
-        "id": "dell-venue", 
-        "imageUrl": "img/players/dell-venue.0.jpg", 
-        "name": "Dell Venue", 
-        "snippet": "The Dell Venue; Your Personal Express Lane to Everything"
+        "id": "zlatan-ibrahimovic", 
+        "imageUrl": "img/players/zlatan-ibrahimovic.jpg", 
+        "name": "Zlatan Ibrahimovic", 
+        "snippet": "God."
     },
     {
         "age": 2, 
-        "carrier": "Verizon", 
-        "id": "droid-2-global-by-motorola", 
-        "imageUrl": "img/players/droid-2-global-by-motorola.0.jpg", 
-        "name": "DROID\u2122 2 Global by Motorola", 
-        "snippet": "The first smartphone with a 1.2 GHz processor and global capabilities."
+        "id": "ryan-giggs", 
+        "imageUrl": "img/players/ryan-giggs.jpg", 
+        "name": "Ryan Giggs", 
+        "snippet": "Hairy winger."
     }
 ]
