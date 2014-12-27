@@ -15,11 +15,11 @@ potwApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
       when('/players', {
-        templateUrl: 'partials/player-list.html',
+        templateUrl: 'app/partials/player-list.html',
         controller: 'PlayerListCtrl'
       }).
       when('/players/:playerId', {
-        templateUrl: 'partials/player-detail.html',
+        templateUrl: 'app/partials/player-detail.html',
         controller: 'PlayerDetailCtrl'
       }).
       otherwise({
