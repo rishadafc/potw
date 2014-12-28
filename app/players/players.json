@@ -16,5 +16,23 @@
         "id": "ryan-giggs", 
         "imageUrl": "img/players/ryan-giggs.jpg", 
         "name": "Ryan Giggs"
+    },
+    {
+        "age": 3,
+        "id": "philipp-lahm",
+        "imageUrl": "img/players/philipp-lahm.jpg", 
+        "name": "Philipp Lahm"
+    },
+    {
+        "age": 4,
+        "id": "ronaldinho",
+        "imageUrl": "img/players/ronaldinho.jpg", 
+        "name": "Ronaldinho"
+    },
+    {
+        "age": 5,
+        "id": "oliver-kahn",
+        "imageUrl": "img/players/oliver-kahn.jpg", 
+        "name": "Oliver Kahn"
     }
 ]
