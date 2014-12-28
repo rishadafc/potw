@@ -1,9 +1,7 @@
 {
     "description": "Hairy winger.", 
     "id": "ryan-giggs", 
-    "images": [
-        "img/players/ryan-giggs.jpg"
-    ], 
+    "image": "img/players/ryan-giggs.jpg",
     "name": "Ryan Giggs",
     "videoId": "CN-oHNLE_ss"
 }

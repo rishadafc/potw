@@ -14,10 +14,9 @@ potwControllers.controller('PlayerListCtrl', ['$scope', 'Player',
 potwControllers.controller('PlayerDetailCtrl', ['$scope', '$sce', '$routeParams', 'Player',
   function($scope, $sce, $routeParams, Player, $fullVideoUrl) {
     $scope.player = Player.get({playerId: $routeParams.playerId}, function(player) {
-      $scope.mainImageUrl = player.images[0];
+      $scope.mainImageUrl = player.image;
 
       // Video URL
-      
       $scope.fullVideoUrl = $baseVideoURL.concat($scope.player.videoId);
       $scope.videoUrl = $sce.trustAsResourceUrl($scope.fullVideoUrl);
     });

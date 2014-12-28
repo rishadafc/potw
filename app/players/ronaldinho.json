@@ -1,9 +1,7 @@
 {
     "description": "Crazy Brazilian.", 
     "id": "ronaldinho", 
-    "images": [
-        "img/players/ronaldinho.jpg"
-    ], 
+    "image": "img/players/ronaldinho.jpg",
     "name": "Ronaldinho",
     "videoId": "dXuhBnLE-aI"
 }
