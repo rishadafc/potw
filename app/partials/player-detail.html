@@ -1,12 +1,18 @@
-<div class="player-images">
-  <img ng-src="{{img}}"
-       class="player"
-       ng-repeat="img in player.images"
-       ng-class="{active: mainImageUrl==img}">
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12" align="center">
+			
+			<img ng-src="{{img}}"
+			class="player img-circle"
+			ng-repeat="img in player.images"
+			ng-class="{active: mainImageUrl==img}">
+
+			<h1>{{player.name}}</h1>
+
+			<p>{{player.description}}</p>
+
+			<iframe width="560" height="315" ng-src="{{videoUrl}}" frameborder="0" allowfullscreen></iframe>
+			
+		</div>
+	</div>
 </div>
-
-<h1>{{player.name}}</h1>
-
-<p>{{player.description}}</p>
-
-<iframe width="560" height="315" ng-src="{{videoUrl}}" frameborder="0" allowfullscreen></iframe>
