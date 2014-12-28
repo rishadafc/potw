@@ -3,21 +3,18 @@
         "age": 0, 
         "id": "andrea-pirlo", 
         "imageUrl": "img/players/andrea-pirlo.jpg", 
-        "name": "Andrea Pirlo", 
-        "snippet": "Italian maestro."
+        "name": "Andrea Pirlo"
     }, 
     {
         "age": 1, 
         "id": "zlatan-ibrahimovic", 
         "imageUrl": "img/players/zlatan-ibrahimovic.jpg", 
-        "name": "Zlatan Ibrahimovic", 
-        "snippet": "God."
+        "name": "Zlatan Ibrahimovic"
     },
     {
         "age": 2, 
         "id": "ryan-giggs", 
         "imageUrl": "img/players/ryan-giggs.jpg", 
-        "name": "Ryan Giggs", 
-        "snippet": "Hairy winger."
+        "name": "Ryan Giggs"
     }
 ]

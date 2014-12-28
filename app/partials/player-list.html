@@ -1,28 +1,27 @@
 <div class="container-fluid">
-  <div class="row">
-  
-  <!--Search Box and Sorting Filters-->
-    <div class="search-box">
-      Search: <input ng-model="query">
-      Sort by:
-      <select ng-model="orderProp">
-        <option value="name">Alphabetical</option>
-        <option value="age">Newest</option>
-      </select>
-    </div>
+  <div class="row row-centered">
+<h2>Player of the Week Collection</h2></br>
+    <!--Search Box and Sorting Filters-->
+    <div class="search-box col-centered">
+      <form class="form-inline">
+        <div class="form-group">
+          <input ng-model="query" type="search" class="form-control input-md" placeholder="Search">
+          <select class="form-control input-md" ng-model="orderProp">
+            <option value="name">Alphabetical</option>
+            <option value="age">Newest</option>
+          </select>
+        </div>
+      </form>
+    </div></br>
 
-    <div class="col-md-12">
-      <!--Body content-->
+    <!--Body content-->
+    <ul class="row row-centered">
+      <li ng-repeat="player in players | filter:query | orderBy:orderProp"
+      class="thumbnail col-md-8 col-sm-6 col-xs-6 col-centered">
+      <a href="#/players/{{player.id}}" class="thumb"><img ng-src="{{player.imageUrl}}" class="img-circle"></a>
+      <a class="player-listing" href="#/players/{{player.id}}">{{player.name}}</a>
+    </li>
+  </ul>
 
-      <ul class="players">
-        <li ng-repeat="player in players | filter:query | orderBy:orderProp"
-            class="thumbnail player-listing">
-          <a href="#/players/{{player.id}}" class="thumb"><img ng-src="{{player.imageUrl}}" class="img-circle"></a>
-          <a href="#/players/{{player.id}}">{{player.name}}</a>
-          <p>{{player.snippet}}</p>
-        </li>
-      </ul>
-
-    </div>
-  </div>
+</div>
 </div>
