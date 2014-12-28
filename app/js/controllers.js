@@ -8,7 +8,7 @@ var $baseVideoURL = "//www.youtube.com/embed/";
 potwControllers.controller('PlayerListCtrl', ['$scope', 'Player',
   function($scope, Player) {
     $scope.players = Player.query();
-    $scope.orderProp = 'age';
+    $scope.orderProp = '-age';
   }]);
 
 potwControllers.controller('PlayerDetailCtrl', ['$scope', '$sce', '$routeParams', 'Player',
