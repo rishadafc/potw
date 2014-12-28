@@ -44,6 +44,11 @@ a:hover {
   position: relative;
 }
 
+.search-field {
+  display: block;
+  margin-right: 0.5em;
+}
+
 .players {
   list-style: none;
 }
