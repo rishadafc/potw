@@ -99,3 +99,11 @@ img.player {
   width: 16em;
   display: block;
 }
+
+.footer {
+  margin-top: 4em;
+  margin-bottom: 1.5em;
+  font-style: oblique;
+  text-transform: uppercase;
+  display:inline-block;
+}
