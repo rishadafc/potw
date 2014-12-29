@@ -3,228 +3,266 @@
         "age": 37,
         "id": "dimitar-berbatov",
         "imageUrl": "img/players/dimitar-berbatov.jpg", 
+        "position": "forward",
         "name": "Dimitar Berbatov"
     },
     {
         "age": 36,
         "id": "paolo-di-canio",
         "imageUrl": "img/players/paolo-di-canio.jpg", 
+        "position": "forward",
         "name": "Paolo Di Canio"
     },
     {
         "age": 35,
         "id": "gianfranco-zola",
         "imageUrl": "img/players/gianfranco-zola.jpg", 
+        "position": "forward",
         "name": "Gianfranco Zola"
     },
     {
         "age": 34,
         "id": "andriy-schevchenko",
         "imageUrl": "img/players/andriy-schevchenko.jpg", 
+        "position": "forward",
         "name": "Andriy Schevchenko"
     },
     {
         "age": 33,
         "id": "romario",
         "imageUrl": "img/players/romario.jpg", 
+        "position": "forward",
         "name": "Romário"
     },
     {
         "age": 32,
         "id": "michael-laudrup",
         "imageUrl": "img/players/michael-laudrup.jpg", 
+        "position": "midfielder",
         "name": "Michael Laudrup"
     },
     {
         "age": 31,
         "id": "matthew-le-tissier",
         "imageUrl": "img/players/matthew-le-tissier.jpg", 
+        "position": "midfielder",
         "name": "Matthew Le Tissier"
     },
     {
         "age": 30,
         "id": "francesco-totti",
         "imageUrl": "img/players/francesco-totti.jpg", 
+        "position": "forward",
         "name": "Francesco Totti"
     },
     {
         "age": 29,
         "id": "alessandro-del-piero",
         "imageUrl": "img/players/alessandro-del-piero.jpg", 
+        "position": "forward",
         "name": "Alessandro del Piero"
     },
     {
         "age": 28,
         "id": "luis-figo",
         "imageUrl": "img/players/luis-figo.jpg", 
+        "position": "forward",
         "name": "Luís Figo"
     },
     {
         "age": 27,
         "id": "kaka",
         "imageUrl": "img/players/kaka.jpg", 
+        "position": "midfielder",
         "name": "Kaká"
     },
     {
         "age": 26,
         "id": "paolo-maldini",
         "imageUrl": "img/players/paolo-maldini.jpg", 
+        "position": "defender",
         "name": "Paolo Maldini"
     },
     {
         "age": 25,
         "id": "rivaldo",
         "imageUrl": "img/players/rivaldo.jpg", 
+        "position": "midfielder",
         "name": "Rivaldo"
     },
     {
         "age": 24,
         "id": "pavel-nedved",
         "imageUrl": "img/players/pavel-nedved.jpg", 
+        "position": "midfielder",
         "name": "Pavel Nedvěd"
     },
     {
         "age": 23,
         "id": "arjen-robben",
         "imageUrl": "img/players/arjen-robben.jpg", 
+        "position": "forward",
         "name": "Arjen Robben"
     },
     {
         "age": 22,
         "id": "raul",
         "imageUrl": "img/players/raul.jpg", 
+        "position": "forward",
         "name": "Raúl"
     },
     {
         "age": 21,
         "id": "thierry-henry",
         "imageUrl": "img/players/thierry-henry.jpg", 
+        "position": "forward",
         "name": "Thierry Henry"
     },
     {
         "age": 20,
         "id": "david-beckham",
         "imageUrl": "img/players/david-beckham.jpg", 
+        "position": "midfielder",
         "name": "David Beckham"
     },
     {
         "age": 19,
         "id": "javier-zanetti",
-        "imageUrl": "img/players/javier-zanetti.jpg", 
+        "imageUrl": "img/players/javier-zanetti.jpg",
+        "position": "defender", 
         "name": "Javier Zanetti"
     },
     {
         "age": 18,
         "id": "eric-cantona",
         "imageUrl": "img/players/eric-cantona.jpg", 
+        "position": "forward",
         "name": "Eric Cantona"
     },
     {
         "age": 17,
         "id": "manuel-neuer",
         "imageUrl": "img/players/manuel-neuer.jpg", 
+        "position": "goalkeeper",
         "name": "Manuel Neuer"
     },
     {
         "age": 16,
         "id": "paul-scholes",
-        "imageUrl": "img/players/paul-scholes.jpg", 
+        "imageUrl": "img/players/paul-scholes.jpg",
+        "position": "midfielder", 
         "name": "Paul Scholes"
     },
     {
         "age": 15,
         "id": "ronaldo",
         "imageUrl": "img/players/ronaldo.jpg", 
+        "position": "forward",
         "name": "Ronaldo"
     },
     {
         "age": 14,
         "id": "mesut-ozil",
         "imageUrl": "img/players/mesut-ozil.jpg", 
+        "position": "midfielder",
         "name": "Mesut Özil"
     },
     {
         "age": 13,
         "id": "thomas-muller",
         "imageUrl": "img/players/thomas-muller.jpg", 
+        "position": "forward",
         "name": "Thomas Müller"
     },
     {
         "age": 12,
         "id": "tim-howard",
         "imageUrl": "img/players/tim-howard.jpg", 
+        "position": "goalkeeper",
         "name": "Tim Howard"
     },
     {
         "age": 11,
         "id": "clint-dempsey",
         "imageUrl": "img/players/clint-dempsey.jpg", 
+        "position": "forward",
         "name": "Clint Dempsey"
     },   
     {
         "age": 10,
         "id": "andres-iniesta",
-        "imageUrl": "img/players/andres-iniesta.jpg", 
+        "imageUrl": "img/players/andres-iniesta.jpg",
+        "position": "midfielder", 
         "name": "Andrés Iniesta"
     },
     {
         "age": 9,
         "id": "steven-gerrard",
         "imageUrl": "img/players/steven-gerrard.jpg", 
+        "position": "midfielder",
         "name": "Steven Gerrard"
     },
     {
         "age": 8,
         "id": "zinedine-zidane",
         "imageUrl": "img/players/zinedine-zidane.jpg", 
+        "position": "midfielder",
         "name": "Zinedine Zidane"
     },
     {
         "age": 7,
         "id": "sergio-busquets",
         "imageUrl": "img/players/sergio-busquets.jpg", 
+        "position": "midfielder",
         "name": "Sergio Busquets"
     },
     {
         "age": 6,
         "id": "dennis-bergkamp",
-        "imageUrl": "img/players/dennis-bergkamp.jpg", 
+        "imageUrl": "img/players/dennis-bergkamp.jpg",
+        "position": "forward", 
         "name": "Dennis Bergkamp"
     },
     {
         "age": 5,
         "id": "oliver-kahn",
         "imageUrl": "img/players/oliver-kahn.jpg", 
+        "position": "goalkeeper",
         "name": "Oliver Kahn"
     },
     {
         "age": 4,
         "id": "ronaldinho",
         "imageUrl": "img/players/ronaldinho.jpg", 
+        "position": "forward",
         "name": "Ronaldinho"
     },
     {
         "age": 3,
         "id": "philipp-lahm",
         "imageUrl": "img/players/philipp-lahm.jpg", 
+        "position": "defender",
         "name": "Philipp Lahm"
     },
     {
         "age": 2, 
         "id": "ryan-giggs", 
         "imageUrl": "img/players/ryan-giggs.jpg", 
+        "position": "forward",
         "name": "Ryan Giggs"
     },
     {
         "age": 1, 
         "id": "zlatan-ibrahimovic", 
         "imageUrl": "img/players/zlatan-ibrahimovic.jpg", 
+        "position": "forward",
         "name": "Zlatan Ibrahimović"
     },
     {
         "age": 0, 
         "id": "andrea-pirlo", 
         "imageUrl": "img/players/andrea-pirlo.jpg", 
+        "position": "midfielder",
         "name": "Andrea Pirlo"
     } 
 ]

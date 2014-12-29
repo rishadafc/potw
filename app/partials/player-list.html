@@ -17,13 +17,22 @@
             <option value="age">Oldest</option>
           </select>
 
+          <!-- Filter position dropdown -->
+          <select class="form-control input-lg player-sort" ng-model="positionFilter">
+            <option value="">All Players</option>
+            <option value="goalkeeper">Goalkeepers</option>
+            <option value="defender">Defenders</option>
+            <option value="midfielder">Midfielders</option>
+            <option value="forward">Forwards</option>
+          </select>
+
         </div>
       </form>
     </div></br>
 
     <!--Player Listing-->
     <ul class="row row-centered">
-      <li ng-repeat="player in players | filter:query | orderBy:orderProp"
+      <li ng-repeat="player in players | filter:query | filter:{position:positionFilter} | orderBy:orderProp"
       class="thumbnail col-md-6 col-sm-6 col-xs-6 col-centered">
 
       <!-- Individual Player Listing -->
