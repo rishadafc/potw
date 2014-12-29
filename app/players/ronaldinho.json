@@ -1,7 +1,7 @@
 {
-    "description": "Crazy Brazilian.", 
-    "id": "ronaldinho", 
-    "image": "img/players/ronaldinho.jpg",
-    "name": "Ronaldinho",
-    "videos": ["dXuhBnLE-aI"]
+	"name": "Ronaldinho",
+	"id": "ronaldinho", 
+	"image": "img/players/ronaldinho.jpg",
+	"videos": ["dXuhBnLE-aI","Pmkr8LrNw14"],
+	"nickname": "Ronnie."
 }

@@ -1,7 +1,7 @@
 {
-    "description": "Hairy winger.", 
-    "id": "ryan-giggs", 
-    "image": "img/players/ryan-giggs.jpg",
-    "name": "Ryan Giggs",
-    "videos": ["CN-oHNLE_ss"]
+	"name": "Ryan Giggs",
+	"id": "ryan-giggs", 
+	"image": "img/players/ryan-giggs.jpg",
+	"videos": ["CN-oHNLE_ss","quI_LkMj4HI"],
+	"nickname": "Giggsy."
 }

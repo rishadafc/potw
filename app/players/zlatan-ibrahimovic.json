@@ -1,7 +1,7 @@
 {
-    "description": "God.", 
+    "name": "Zlatan Ibrahimovic",
     "id": "zlatan-ibrahimovic", 
     "image": "img/players/zlatan-ibrahimovic.jpg", 
-    "name": "Zlatan Ibrahimovic",
-    "videos": ["gc9ktJ3JHXA"]
+    "videos": ["gc9ktJ3JHXA","Ck5P30zC3Z0"],
+    "nickname": "Ibra."
 }

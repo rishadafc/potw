@@ -1,7 +1,7 @@
 {
-    "description": "German captain.", 
-    "id": "philipp-lahm", 
-    "image": "img/players/philipp-lahm.jpg",
-    "name": "Philipp Lahm",
-    "videos": ["PabsSYHoQ-s"]
+	"name": "Philipp Lahm",
+	"id": "philipp-lahm", 
+	"image": "img/players/philipp-lahm.jpg",
+	"videos": ["Xjmy1P9gr8E","PabsSYHoQ-s"],
+	"nickname": "The Magic Dwarf."
 }

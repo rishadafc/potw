@@ -10,11 +10,11 @@
 				<h1>{{player.name}}</h1>
 
 				<!-- Description -->
-				<p class="player-description">{{player.description}}</p>
+				<p class="player-nickname">{{player.nickname}}</p>
 
 				<!-- Videos -->
 				<div ng-repeat="video in player.videos">
-					<iframe width="560" height="315" ng-src="{{video}}" frameborder="0" allowfullscreen></iframe>
+					<iframe width="560" height="315" ng-src="{{video}}" frameborder="0" allowfullscreen></iframe><br/><br/>
 				</div>
 
 			</div>

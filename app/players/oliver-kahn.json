@@ -1,7 +1,7 @@
 {
-    "description": "Eccentric German goalkeeper.", 
-    "id": "oliver-kahn", 
-    "image": "img/players/oliver-kahn.jpg",
-    "name": "Oliver Kahn",
-    "videos": ["mr82KBjbCJQ","riJONs7joHc"]
+	"name": "Oliver Kahn",
+	"id": "oliver-kahn", 
+	"image": "img/players/oliver-kahn.jpg",
+	"videos": ["mr82KBjbCJQ","riJONs7joHc"],
+	"nickname": "Der Titan."
 }

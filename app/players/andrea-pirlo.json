@@ -1,7 +1,7 @@
 {
-	"description": "Italian maestro.", 
+	"name": "Andrea Pirlo",
 	"id": "andrea-pirlo", 
 	"image": "img/players/andrea-pirlo.jpg",
-	"name": "Andrea Pirlo",
-	"videos": ["Wfe6fisAMTE"]
+	"videos": ["Wfe6fisAMTE","P0pwRmHSwCk"],
+	"nickname": "L’Architetto."
 }
