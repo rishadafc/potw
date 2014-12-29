@@ -3,5 +3,5 @@
     "id": "ronaldinho", 
     "image": "img/players/ronaldinho.jpg",
     "name": "Ronaldinho",
-    "videoId": "dXuhBnLE-aI"
+    "videos": ["dXuhBnLE-aI"]
 }

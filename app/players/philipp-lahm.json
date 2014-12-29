@@ -3,5 +3,5 @@
     "id": "philipp-lahm", 
     "image": "img/players/philipp-lahm.jpg",
     "name": "Philipp Lahm",
-    "videoId": "PabsSYHoQ-s"
+    "videos": ["PabsSYHoQ-s"]
 }

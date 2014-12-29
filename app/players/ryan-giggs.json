@@ -3,5 +3,5 @@
     "id": "ryan-giggs", 
     "image": "img/players/ryan-giggs.jpg",
     "name": "Ryan Giggs",
-    "videoId": "CN-oHNLE_ss"
+    "videos": ["CN-oHNLE_ss"]
 }

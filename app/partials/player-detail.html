@@ -3,13 +3,19 @@
 		<div class="col-md-8 col-centered">
 			<div align="center">
 				
+				<!-- Image -->
 				<img ng-src="{{player.image}}" class="player img-circle">
 
+				<!-- Name -->
 				<h1>{{player.name}}</h1>
 
+				<!-- Description -->
 				<p class="player-description">{{player.description}}</p>
-				
-				<iframe width="560" height="315" ng-src="{{videoUrl}}" frameborder="0" allowfullscreen></iframe>
+
+				<!-- Videos -->
+				<div ng-repeat="video in player.videos">
+					<iframe width="560" height="315" ng-src="{{video}}" frameborder="0" allowfullscreen></iframe>
+				</div>
 
 			</div>
 		</div>

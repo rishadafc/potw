@@ -1,27 +1,37 @@
 <div class="container-fluid">
   <div class="row row-centered">
     <h1>Player of the Week Collection</h1></br>
+
     <!--Search Box and Sorting Filters-->
     <div class="search-box col-centered">
       <form class="form-inline">
         <div class="form-group">
+        
+        <!-- Search field -->
           <input ng-model="query" type="search" class="form-control input-lg search-field" placeholder="Search">
+
+          <!-- Sorting dropdown -->
           <select class="form-control input-lg" ng-model="orderProp">
             <option value="name">Alphabetical</option>
             <option value="-age">Newest</option>
             <option value="age">Oldest</option>
           </select>
+
         </div>
       </form>
     </div></br>
 
-    <!--Body content-->
+    <!--Player Listing-->
     <ul class="row row-centered">
       <li ng-repeat="player in players | filter:query | orderBy:orderProp"
       class="thumbnail col-md-6 col-sm-6 col-xs-6 col-centered">
-      <div class="clearfix visible-xs-block"></div>
-      <a href="#/players/{{player.id}}" class="thumb"><img ng-src="{{player.imageUrl}}" class="img-circle"></a>
+
+      <!-- Individual Player Listing -->
+      <a href="#/players/{{player.id}}" class="thumb">
+        <img ng-src="{{player.imageUrl}}" class="img-circle">
+      </a>
       <a class="player-listing" href="#/players/{{player.id}}">{{player.name}}</a>
+      
     </li>
   </ul>
 

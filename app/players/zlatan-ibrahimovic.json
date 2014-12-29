@@ -3,5 +3,5 @@
     "id": "zlatan-ibrahimovic", 
     "image": "img/players/zlatan-ibrahimovic.jpg", 
     "name": "Zlatan Ibrahimovic",
-    "videoId": "gc9ktJ3JHXA"
+    "videos": ["gc9ktJ3JHXA"]
 }

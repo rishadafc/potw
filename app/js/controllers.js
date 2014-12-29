@@ -12,12 +12,14 @@ potwControllers.controller('PlayerListCtrl', ['$scope', 'Player',
   }]);
 
 potwControllers.controller('PlayerDetailCtrl', ['$scope', '$sce', '$routeParams', 'Player',
-  function($scope, $sce, $routeParams, Player, $fullVideoUrl) {
+  function($scope, $sce, $routeParams, Player) {
     $scope.player = Player.get({playerId: $routeParams.playerId}, function(player) {
 
-      // Video URL
-      $scope.fullVideoUrl = $baseVideoURL.concat($scope.player.videoId);
-      $scope.videoUrl = $sce.trustAsResourceUrl($scope.fullVideoUrl);
+      // Array of video URLs
+      for (var i=0; i < $scope.player.videos.length; i++) {
+        $scope.player.videos[i] = $sce.trustAsResourceUrl($baseVideoURL + $scope.player.videos[i]);
+      }
+
     });
 
   }]);

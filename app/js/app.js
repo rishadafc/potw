@@ -5,9 +5,8 @@
 var potwApp = angular.module('potwApp', [
   'ngRoute',
   'potwAnimations',
-
   'potwControllers',
-  'potwFilters',
+  // 'potwFilters',
   'potwServices'
 ]);
 
