@@ -44,14 +44,10 @@ a:hover {
   position: relative;
 }
 
-.player-search {
-  display: block;
+.player-filter {
+  display: inline-block;
   margin-top: 0.5em;
   margin-right: 0.5em;
-}
-
-.player-sort {
-  margin-top: 0.5em;
 }
 
 .player-listing {

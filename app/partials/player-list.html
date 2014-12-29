@@ -8,18 +8,18 @@
         <div class="form-group">
 
           <!-- Search field -->
-          <input ng-model="query" type="search" class="form-control input-lg player-search" placeholder="Search">
+          <input ng-model="query" type="search" class="form-control input-lg player-filter" placeholder="Search">
 
           <!-- Sorting dropdown -->
-          <select class="form-control input-lg player-sort" ng-model="orderProp">
+          <select class="form-control input-lg player-filter" ng-model="orderProp">
             <option value="name">Alphabetical</option>
             <option value="-age">Newest</option>
             <option value="age">Oldest</option>
           </select>
 
           <!-- Filter position dropdown -->
-          <select class="form-control input-lg player-sort" ng-model="positionFilter">
-            <option value="">All Players</option>
+          <select class="form-control input-lg player-filter" ng-model="positionFilter">
+            <option value="">All Positions</option>
             <option value="goalkeeper">Goalkeepers</option>
             <option value="defender">Defenders</option>
             <option value="midfielder">Midfielders</option>
