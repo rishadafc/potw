@@ -97,31 +97,5 @@ a:hover {
 img.player {
   height: 16em;
   width: 16em;
-  display: none;
-}
-
-img.player:first-child {
   display: block;
-}
-
-ul.player-thumbs {
-  margin: 0;
-  list-style: none;
-}
-
-ul.player-thumbs li {
-  border: 1px solid black;
-  display: inline-block;
-  margin: 1em;
-  background-color: white;
-}
-
-ul.player-thumbs img {
-  height: 100px;
-  width: 100px;
-  padding: 1em;
-}
-
-ul.player-thumbs img:hover {
-  cursor: pointer;
 }
