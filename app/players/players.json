@@ -1,5 +1,12 @@
 [
     {
+        "age": 39,
+        "id": "frank-lampard",
+        "imageUrl": "img/players/frank-lampard.jpg", 
+        "position": "midfielder",
+        "name": "Frank Lampard"
+    },
+    {
         "age": 38,
         "id": "xabi-alonso",
         "imageUrl": "img/players/xabi-alonso.jpg", 
