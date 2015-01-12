@@ -1,5 +1,12 @@
 [
     {
+        "age": 40,
+        "id": "carles-puyol",
+        "imageUrl": "img/players/carles-puyol.jpg", 
+        "position": "defender",
+        "name": "Carles Puyol"
+    },
+    {
         "age": 39,
         "id": "frank-lampard",
         "imageUrl": "img/players/frank-lampard.jpg", 
