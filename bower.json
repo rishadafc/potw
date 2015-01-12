@@ -1,8 +1,8 @@
 {
-  "name": "angular-phonecat",
-  "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-phonecat",
+  "name": "rishadafc-potw",
+  "description": "A collection of all my player of the week emails with videos",
+  "version": "1.0.0",
+  "homepage": "https://github.com/rishadafc/potw",
   "license": "MIT",
   "private": true,
   "dependencies": {
