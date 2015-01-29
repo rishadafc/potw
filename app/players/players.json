@@ -1,5 +1,12 @@
 [
     {
+        "age": 41,
+        "id": "bastian-schweinsteiger",
+        "imageUrl": "img/players/bastian-schweinsteiger.jpg", 
+        "position": "midfielder",
+        "name": "Bastian Schweinsteiger"
+    },
+    {
         "age": 40,
         "id": "carles-puyol",
         "imageUrl": "img/players/carles-puyol.jpg", 
