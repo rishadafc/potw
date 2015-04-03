@@ -6,6 +6,7 @@ var potwApp = angular.module('potwApp', [
   'ngRoute',
   'potwAnimations',
   'potwControllers',
+  'angular-flexslider',
   // 'potwFilters',
   'potwServices'
 ]);

@@ -9,18 +9,20 @@
 				<!-- Name -->
 				<h1>{{player.name}}</h1>
 
-				<!-- Description -->
+				<!-- Nickname -->
 				<p class="player-nickname">{{player.nickname}}</p>
 
 				<!-- Videos -->
-				<div ng-repeat="video in player.videos">
-					<iframe width="560" height="315" ng-src="{{video}}" frameborder="0" allowfullscreen></iframe><br/><br/>
-				</div>
+				<flex-slider slide="video in player.videos">
+				<li>
+					<iframe width="560" height="315" ng-src="{{video}}" frameborder="0" allowfullscreen></iframe>
+				</li>
+			</flex-slider>
 
-				<div class="footer">
-					All content on this website has been used for educational purposes only.
-				</div>
+			<div class="footer">
+				All content on this website has been used for educational purposes only.
 			</div>
 		</div>
 	</div>
+</div>
 </div>

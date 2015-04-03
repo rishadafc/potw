@@ -95,6 +95,11 @@ a:hover {
   margin-bottom: 2em;
 }
 
+.player-key-points {
+  font-size: 1.2em;
+  /*line-height: 1.4em;*/
+}
+
 img.player {
   height: 16em;
   width: 16em;
