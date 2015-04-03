@@ -2,6 +2,7 @@
 	"name": "Andrés Iniesta",
 	"id": "andres-iniesta", 
 	"image": "img/players/andres-iniesta.jpg",
+	"nickname": "El Ilusionista.",
 	"videos": ["YVB9EcEKeBQ","X1y-ox_p8mo","QwADqit3dBE"],
-	"nickname": "El Ilusionista."
+	"strengths": []
 }

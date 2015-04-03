@@ -2,6 +2,7 @@
 	"name": "Zinedine Zidane",
 	"id": "zinedine-zidane", 
 	"image": "img/players/zinedine-zidane.jpg",
+	"nickname": "Zizou.",
 	"videos": ["C7mXGMcpA0g","aWzkhlbyoeI","PJ73SexL1t0","QryFUtRtUiM"],
-	"nickname": "Zizou."
+	"strengths": []
 }

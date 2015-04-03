@@ -2,6 +2,7 @@
 	"name": "Ryan Giggs",
 	"id": "ryan-giggs", 
 	"image": "img/players/ryan-giggs.jpg",
+	"nickname": "Giggsy.",
 	"videos": ["CN-oHNLE_ss","quI_LkMj4HI"],
-	"nickname": "Giggsy."
+	"strengths": []
 }

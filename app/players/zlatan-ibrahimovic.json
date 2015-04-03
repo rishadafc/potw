@@ -1,7 +1,8 @@
 {
-    "name": "Zlatan Ibrahimovic",
+    "name": "Zlatan Ibrahimović",
     "id": "zlatan-ibrahimovic", 
-    "image": "img/players/zlatan-ibrahimovic.jpg", 
-    "videos": ["XYan94S8slU","-RiTUFAc2wc","Ck5P30zC3Z0"],
-    "nickname": "Ibra."
+    "image": "img/players/zlatan-ibrahimovic.jpg",
+    "nickname": "Ibra.", 
+    "videos": ["gc9ktJ3JHXA","8HPZvSXT_3g","mr1WWCFhgQw","XYan94S8slU","-RiTUFAc2wc","Ck5P30zC3Z0","8MI0mhROF2c","f6g-Kq_meno"],
+    "strengths": ["One of the most unpredictable players around","Scores goals and does things on the pitch that no one else would dare to","Mastery over the bicycle kick with his own variations","Applies taekwondo to football like no else","Balances his height and physical presence up front with sublime technique","Can lead attacking the line on his own if necessary"]
 }
