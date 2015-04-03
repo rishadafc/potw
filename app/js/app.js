@@ -14,6 +14,10 @@ var potwApp = angular.module('potwApp', [
 potwApp.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.
+      when('/', {
+        templateUrl: 'partials/player-list.html',
+        controller: 'PlayerListCtrl'
+      }).    
       when('/players', {
         templateUrl: 'partials/player-list.html',
         controller: 'PlayerListCtrl'
