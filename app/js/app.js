@@ -10,8 +10,8 @@ var potwApp = angular.module('potwApp', [
   'potwServices'
 ]);
 
-potwApp.config(['$routeProvider', '$locationProvider',
-  function($routeProvider, $locationProvider) {
+potwApp.config(['$routeProvider',
+  function($routeProvider) {
     $routeProvider.
       when('/players', {
         templateUrl: 'partials/player-list.html',
@@ -24,9 +24,4 @@ potwApp.config(['$routeProvider', '$locationProvider',
       otherwise({
         redirectTo: '/players'
       });
-
-      $locationProvider.html5Mode({
-                 enabled: true,
-                 requireBase: true
-          });
   }]);
