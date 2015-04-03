@@ -12,6 +12,12 @@
 				<!-- Nickname -->
 				<p class="player-nickname">{{player.nickname}}</p>
 
+				<!-- Key Points -->
+				<span ng-if="player.key_points != null">
+					<h3>Key Points</h3>
+					<div class="player-key-points" ng-repeat="key_point in player.key_points">{{key_point}}</div><br/>
+				</span>
+
 				<!-- Videos -->
 				<flex-slider slide="video in player.videos">
 				<li>
