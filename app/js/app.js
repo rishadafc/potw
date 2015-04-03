@@ -7,12 +7,11 @@ var potwApp = angular.module('potwApp', [
   'potwAnimations',
   'potwControllers',
   'angular-flexslider',
-  // 'potwFilters',
   'potwServices'
 ]);
 
 potwApp.config(['$routeProvider',
-  function($routeProvider) {
+  function($routeProvider, $locationProvider) {
     $routeProvider.
       when('/players', {
         templateUrl: 'partials/player-list.html',
@@ -25,4 +24,7 @@ potwApp.config(['$routeProvider',
       otherwise({
         redirectTo: '/players'
       });
+
+      // use the HTML5 History API
+        $locationProvider.html5Mode(true);
   }]);
