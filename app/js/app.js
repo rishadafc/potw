@@ -10,7 +10,7 @@ var potwApp = angular.module('potwApp', [
   'potwServices'
 ]);
 
-potwApp.config(['$routeProvider',
+potwApp.config(['$routeProvider', '$locationProvider',
   function($routeProvider, $locationProvider) {
     $routeProvider.
       when('/players', {
