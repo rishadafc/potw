@@ -1,5 +1,26 @@
 [
     {
+        "age": 44,
+        "id": "gerard-pique",
+        "imageUrl": "img/players/gerard-pique.jpg", 
+        "position": "defender",
+        "name": "Gerard Piqué"
+    },
+    {
+        "age": 43,
+        "id": "thiago-silva",
+        "imageUrl": "img/players/thiago-silva.jpg", 
+        "position": "defender",
+        "name": "Thiago Silva"
+    },
+    {
+        "age": 42,
+        "id": "alexis-sanchez",
+        "imageUrl": "img/players/alexis-sanchez.jpg", 
+        "position": "forward",
+        "name": "Alexis Sánchez"
+    },
+    {
         "age": 41,
         "id": "bastian-schweinsteiger",
         "imageUrl": "img/players/bastian-schweinsteiger.jpg", 

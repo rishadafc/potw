@@ -2,6 +2,7 @@
 	"name": "Sergio Busquets",
 	"id": "sergio-busquets", 
 	"image": "img/players/sergio-busquets.jpg",
-	"videos": ["XLZxQxCFWIY","h00GkvAqxB4","2Jx8O6hRpE0","EH3VCGSbDt4"],
-	"nickname": "Busi."
+	"nickname": "Busi.",
+	"videos": ["sIwHsMMkNe4","XLZxQxCFWIY","h00GkvAqxB4","2Jx8O6hRpE0","EH3VCGSbDt4"],
+	"strengths": ["Covers spaces left by his teammates", "Intelligent positioning off the ball", "Relies on interceptions rather than last-ditch tackles", "Dribbling to drag the ball away from attackers after retrieving possession", "Excellent receiving technique in tight spaces","Decision making and vision to pass long and short when necessary"]
 }

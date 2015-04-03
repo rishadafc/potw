@@ -13,17 +13,20 @@
 				<p class="player-nickname">{{player.nickname}}</p>
 
 				<!-- Key Points -->
-				<span ng-if="player.key_points != null">
-					<h3>Key Points</h3>
-					<div class="player-key-points" ng-repeat="key_point in player.key_points">{{key_point}}</div><br/>
+				<span ng-if="player.strengths != null">
+					<h3>Strengths</h3>
+					<div class="player-strengths" ng-repeat="strength in player.strengths">{{strength}}</div><br/>
 				</span>
 
 				<!-- Videos -->
+				<span ng-if="player.videos != null">
+				<h3>Videos</h3>
 				<flex-slider slide="video in player.videos">
 				<li>
 					<iframe width="560" height="315" ng-src="{{video}}" frameborder="0" allowfullscreen></iframe>
 				</li>
 			</flex-slider>
+			</span>
 
 			<div class="footer">
 				All content on this website has been used for educational purposes only.
