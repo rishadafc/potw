@@ -1,5 +1,12 @@
 [
     {
+        "age": 45,
+        "id": "franck-ribery",
+        "imageUrl": "img/players/franck-ribery.jpg", 
+        "position": "midfielder",
+        "name": "Franck Ribéry"
+    },
+    {
         "age": 44,
         "id": "mario-gotze",
         "imageUrl": "img/players/mario-gotze.jpg", 
