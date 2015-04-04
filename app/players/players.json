@@ -1,66 +1,66 @@
 [
     {
         "age": 44,
+        "id": "mario-gotze",
+        "imageUrl": "img/players/mario-gotze.jpg", 
+        "position": "midfielder",
+        "name": "Mario Götze"
+    },
+    {
+        "age": 43,
         "id": "gerard-pique",
         "imageUrl": "img/players/gerard-pique.jpg", 
         "position": "defender",
         "name": "Gerard Piqué"
     },
     {
-        "age": 43,
+        "age": 42,
         "id": "thiago-silva",
         "imageUrl": "img/players/thiago-silva.jpg", 
         "position": "defender",
         "name": "Thiago Silva"
     },
     {
-        "age": 42,
+        "age": 41,
         "id": "alexis-sanchez",
         "imageUrl": "img/players/alexis-sanchez.jpg", 
         "position": "forward",
         "name": "Alexis Sánchez"
     },
     {
-        "age": 41,
+        "age": 40,
         "id": "bastian-schweinsteiger",
         "imageUrl": "img/players/bastian-schweinsteiger.jpg", 
         "position": "midfielder",
         "name": "Bastian Schweinsteiger"
     },
     {
-        "age": 40,
+        "age": 39,
         "id": "carles-puyol",
         "imageUrl": "img/players/carles-puyol.jpg", 
         "position": "defender",
         "name": "Carles Puyol"
     },
     {
-        "age": 39,
+        "age": 38,
         "id": "frank-lampard",
         "imageUrl": "img/players/frank-lampard.jpg", 
         "position": "midfielder",
         "name": "Frank Lampard"
     },
     {
-        "age": 38,
+        "age": 37,
         "id": "xabi-alonso",
         "imageUrl": "img/players/xabi-alonso.jpg", 
         "position": "midfielder",
         "name": "Xabi Alonso"
     },
     {
-        "age": 37,
+        "age": 36,
         "id": "dimitar-berbatov",
         "imageUrl": "img/players/dimitar-berbatov.jpg", 
         "position": "forward",
         "name": "Dimitar Berbatov"
-    },
-    {
-        "age": 36,
-        "id": "paolo-di-canio",
-        "imageUrl": "img/players/paolo-di-canio.jpg", 
-        "position": "forward",
-        "name": "Paolo Di Canio"
     },
     {
         "age": 35,
