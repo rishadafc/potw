@@ -1,5 +1,12 @@
 [
     {
+        "age": 46,
+        "id": "javi-martinez",
+        "imageUrl": "img/players/javi-martinez.jpg", 
+        "position": "midfielder",
+        "name": "Javi Martínez"
+    },
+    {
         "age": 45,
         "id": "franck-ribery",
         "imageUrl": "img/players/franck-ribery.jpg", 
