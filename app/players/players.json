@@ -17,14 +17,14 @@
         "age": 45,
         "id": "franck-ribery",
         "imageUrl": "img/players/franck-ribery.jpg", 
-        "position": "midfielder",
+        "position": "winger",
         "name": "Franck Ribéry"
     },
     {
         "age": 44,
         "id": "mario-gotze",
         "imageUrl": "img/players/mario-gotze.jpg", 
-        "position": "midfielder",
+        "position": "attacking-midfielder",
         "name": "Mario Götze"
     },
     {
@@ -108,21 +108,21 @@
         "age": 32,
         "id": "michael-laudrup",
         "imageUrl": "img/players/michael-laudrup.jpg", 
-        "position": "midfielder",
+        "position": "attacking-midfielder",
         "name": "Michael Laudrup"
     },
     {
         "age": 31,
         "id": "matthew-le-tissier",
         "imageUrl": "img/players/matthew-le-tissier.jpg", 
-        "position": "midfielder",
+        "position": "forward",
         "name": "Matthew Le Tissier"
     },
     {
         "age": 30,
         "id": "francesco-totti",
         "imageUrl": "img/players/francesco-totti.jpg", 
-        "position": "forward",
+        "position": "attacking-midfielder",
         "name": "Francesco Totti"
     },
     {
@@ -136,14 +136,14 @@
         "age": 28,
         "id": "luis-figo",
         "imageUrl": "img/players/luis-figo.jpg", 
-        "position": "forward",
+        "position": "winger",
         "name": "Luís Figo"
     },
     {
         "age": 27,
         "id": "kaka",
         "imageUrl": "img/players/kaka.jpg", 
-        "position": "midfielder",
+        "position": "attacking-midfielder",
         "name": "Kaká"
     },
     {
@@ -157,21 +157,21 @@
         "age": 25,
         "id": "rivaldo",
         "imageUrl": "img/players/rivaldo.jpg", 
-        "position": "midfielder",
+        "position": "attacking-midfielder",
         "name": "Rivaldo"
     },
     {
         "age": 24,
         "id": "pavel-nedved",
         "imageUrl": "img/players/pavel-nedved.jpg", 
-        "position": "midfielder",
+        "position": "winger",
         "name": "Pavel Nedvěd"
     },
     {
         "age": 23,
         "id": "arjen-robben",
         "imageUrl": "img/players/arjen-robben.jpg", 
-        "position": "forward",
+        "position": "winger",
         "name": "Arjen Robben"
     },
     {
@@ -241,7 +241,7 @@
         "age": 13,
         "id": "thomas-muller",
         "imageUrl": "img/players/thomas-muller.jpg", 
-        "position": "forward",
+        "position": "midfielder",
         "name": "Thomas Müller"
     },
     {
@@ -276,7 +276,7 @@
         "age": 8,
         "id": "zinedine-zidane",
         "imageUrl": "img/players/zinedine-zidane.jpg", 
-        "position": "midfielder",
+        "position": "attacking-midfielder",
         "name": "Zinedine Zidane"
     },
     {
@@ -304,7 +304,7 @@
         "age": 4,
         "id": "ronaldinho",
         "imageUrl": "img/players/ronaldinho.jpg", 
-        "position": "forward",
+        "position": "attacking-midfielder",
         "name": "Ronaldinho"
     },
     {
