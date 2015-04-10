@@ -1,5 +1,19 @@
 [
     {
+        "age": 48,
+        "id": "daniele-de-rossi",
+        "imageUrl": "img/players/daniele-de-rossi.jpg", 
+        "position": "defensive-midfielder",
+        "name": "Daniele De Rossi"
+    },
+    {
+        "age": 47,
+        "id": "javier-mascherano",
+        "imageUrl": "img/players/javier-mascherano.jpg", 
+        "position": "defensive-midfielder",
+        "name": "Javier Mascherano"
+    },
+    {
         "age": 46,
         "id": "sami-khedira",
         "imageUrl": "img/players/sami-khedira.jpg", 
