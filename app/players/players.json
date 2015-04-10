@@ -1,9 +1,16 @@
 [
     {
         "age": 46,
+        "id": "sami-khedira",
+        "imageUrl": "img/players/sami-khedira.jpg", 
+        "position": "defensive-midfielder",
+        "name": "Sami Khedira"
+    },
+    {
+        "age": 46,
         "id": "javi-martinez",
         "imageUrl": "img/players/javi-martinez.jpg", 
-        "position": "midfielder",
+        "position": "defensive-midfielder",
         "name": "Javi Martínez"
     },
     {
@@ -45,7 +52,7 @@
         "age": 40,
         "id": "bastian-schweinsteiger",
         "imageUrl": "img/players/bastian-schweinsteiger.jpg", 
-        "position": "midfielder",
+        "position": "central-midfielder",
         "name": "Bastian Schweinsteiger"
     },
     {
@@ -59,14 +66,14 @@
         "age": 38,
         "id": "frank-lampard",
         "imageUrl": "img/players/frank-lampard.jpg", 
-        "position": "midfielder",
+        "position": "central-midfielder",
         "name": "Frank Lampard"
     },
     {
         "age": 37,
         "id": "xabi-alonso",
         "imageUrl": "img/players/xabi-alonso.jpg", 
-        "position": "midfielder",
+        "position": "central-midfielder",
         "name": "Xabi Alonso"
     },
     {
@@ -213,7 +220,7 @@
         "age": 16,
         "id": "paul-scholes",
         "imageUrl": "img/players/paul-scholes.jpg",
-        "position": "midfielder", 
+        "position": "central-midfielder", 
         "name": "Paul Scholes"
     },
     {
@@ -255,14 +262,14 @@
         "age": 10,
         "id": "andres-iniesta",
         "imageUrl": "img/players/andres-iniesta.jpg",
-        "position": "midfielder", 
+        "position": "central-midfielder", 
         "name": "Andrés Iniesta"
     },
     {
         "age": 9,
         "id": "steven-gerrard",
         "imageUrl": "img/players/steven-gerrard.jpg", 
-        "position": "midfielder",
+        "position": "central-midfielder",
         "name": "Steven Gerrard"
     },
     {
@@ -276,7 +283,7 @@
         "age": 7,
         "id": "sergio-busquets",
         "imageUrl": "img/players/sergio-busquets.jpg", 
-        "position": "midfielder",
+        "position": "defensive-midfielder",
         "name": "Sergio Busquets"
     },
     {
@@ -311,7 +318,7 @@
         "age": 2, 
         "id": "ryan-giggs", 
         "imageUrl": "img/players/ryan-giggs.jpg", 
-        "position": "forward",
+        "position": "midfielder",
         "name": "Ryan Giggs"
     },
     {
@@ -325,7 +332,7 @@
         "age": 0, 
         "id": "andrea-pirlo", 
         "imageUrl": "img/players/andrea-pirlo.jpg", 
-        "position": "midfielder",
+        "position": "central-midfielder",
         "name": "Andrea Pirlo"
     } 
 ]
