@@ -1,5 +1,19 @@
 [
     {
+        "age": 50,
+        "id": "paul-pogba",
+        "imageUrl": "img/players/paul-pogba.jpg", 
+        "position": "defensive-midfielder",
+        "name": "Paul Pogba"
+    },
+    {
+        "age": 49,
+        "id": "patrick-vieira",
+        "imageUrl": "img/players/patrick-vieira.jpg", 
+        "position": "defensive-midfielder",
+        "name": "Patrick Vieira"
+    },
+    {
         "age": 48,
         "id": "daniele-de-rossi",
         "imageUrl": "img/players/daniele-de-rossi.jpg", 
